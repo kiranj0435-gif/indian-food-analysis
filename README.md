@@ -1,4 +1,4 @@
-# 🍛 Indian Food Data Analysis
+# 🍛Indian Food Data Analysis
 
 ## 📌 Objective
 Analyze Indian food dataset to extract insights using Python (NumPy & Pandas).
@@ -6,7 +6,6 @@ Analyze Indian food dataset to extract insights using Python (NumPy & Pandas).
 ## 🧹 Data Cleaning
 - Handled missing values
 - Replaced invalid (-1) values
-- Standardized text
 - Removed duplicates
 
 ## ⚙️ Feature Engineering
@@ -15,9 +14,9 @@ Analyze Indian food dataset to extract insights using Python (NumPy & Pandas).
 - Identified high-time dishes
 
 ## 📊 Key Insights
-- Most dishes belong to [Region]
-- Majority dishes are Quick/Medium
-- [Dish Name] takes maximum time
+- Most dishes belong to region West
+- Majority dishes are Medium category
+- Shrikhand takes maximum time
 - Veg vs Non-veg comparison done
 
 ## 🛠 Tools Used
